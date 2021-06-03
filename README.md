@@ -15,14 +15,14 @@ export default () => ({
   askMeAbout: ["webdev", "fintech", "finance", "crypto", "games"],
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "vue"],
+      js: ["react"],
       css: ["bootstrap"]
     },
     backEnd: {
-      python: ["django", "flask", "Panda"],
+      python: ["django", "Panda"],
     },
     machineLearning: ["pytorch"],
-    databases: ["MySQL"]
+    databases: ["SQL"]
   },
 });
 ```
