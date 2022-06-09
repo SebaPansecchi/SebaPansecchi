@@ -12,16 +12,16 @@
 ```js
 export default () => ({
   nickname: "Sebitagol123",
-  askMeAbout: ["webdev", "fintech", "finance", "crypto", "games"],
+  askMeAbout: ["datascience", "fintech", "finance", "crypto", "games"],
   technologies: {
     frontEnd: {
       js: ["react"],
       css: ["bootstrap"]
     },
     backEnd: {
-      python: ["django", "Panda"],
+      python: ["Numpy","django", "Pandas"],
     },
-    machineLearning: ["pytorch"],
+    machineLearning: ["pytorch", matplotlib],
     databases: ["SQL"]
   },
 });
