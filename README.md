@@ -21,7 +21,7 @@ export default () => ({
     backEnd: {
       python: ["Numpy","django", "Pandas"],
     },
-    machineLearning: ["pytorch", matplotlib],
+    machineLearning: ["pytorch", "matplotlib"],
     databases: ["SQL"]
   },
 });
