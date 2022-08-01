@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C9C9C&center=true&vCenter=true&lines=Welcome+to+my+profile;Administration+student+and...;+passionate+about+programming;Always+learning+new+things;Check+out+my+profile+below"></a>
 </p>
 
-<img src="[Sebastian Pansecchi](https://user-images.githubusercontent.com/83741357/182259441-cf165a29-aae5-408f-9bde-87af7b5449be.png" />
+<img src="https://user-images.githubusercontent.com/83741357/182259441-cf165a29-aae5-408f-9bde-87af7b5449be.png" />
 
 
 ## 🤔 Who I am?
