@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C9C9C&center=true&vCenter=true&lines=Welcome+to+my+profile;Administration+student+and...;+passionate+about+programming;Always+learning+new+things;Check+out+my+profile+below"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/83741357/119572440-1b3bb880-bd89-11eb-8364-2964871f4615.png" />
+<img src="[Sebastian Pansecchi](https://user-images.githubusercontent.com/83741357/182259441-cf165a29-aae5-408f-9bde-87af7b5449be.png" />
 
 
 ## 🤔 Who I am?
@@ -19,9 +19,9 @@ export default () => ({
       css: ["bootstrap"]
     },
     backEnd: {
-      python: ["Numpy","django", "Pandas"],
+      python: ["Numpy", "django", "Pandas"],
     },
-    machineLearning: ["Scikit-Learn", "matplotlib"],
+    machineLearning: ["Scikit-Learn", "TensorFlow", "matplotlib"],
     databases: ["SQL"]
   },
 });
